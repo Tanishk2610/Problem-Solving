@@ -11,4 +11,8 @@ Tracking my problem-solving journey with solutions from LeetCode to improve my c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanishk2610/Problem-Solving/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Tanishk2610/Problem-Solving/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
